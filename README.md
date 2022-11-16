@@ -13,3 +13,29 @@
 [![](https://raw.githubusercontent.com/Senki-dayo/Senki-dayo/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Senki-dayo/Senki-dayo/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+<!-- <code><img height="50" src=""></code> -->
+
+<!-- ## Programming Languages
+<code><img height="50" src="https://img.icons8.com/fluency/512/c-programming.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/512/c-plus-plus-logo.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/512/c-sharp-logo.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/512/python.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/512/php.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/512/swift.png"></code>
+
+
+<code><img height="50" src="https://img.icons8.com/color/512/html-5--v2.png"></code>
+<code><img height="50" src="https://img.icons8.com/fluency/512/css3.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/512/javascript.png"></code>
+
+
+<code><img height="50" src="https://img.icons8.com/color/512/typescript.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/512/kubernetes.png"></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+
+
+## APIs
+<code><img height="50" src="https://img.icons8.com/color/512/twitter-squared.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/512/spotify.png"></code> -->
