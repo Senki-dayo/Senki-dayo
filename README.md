@@ -36,6 +36,10 @@
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 
+## BI
+
+## Cloud Infra
+
 
 ## APIs
 <code><img height="50" src="https://img.icons8.com/color/512/twitter-squared.png"></code>
