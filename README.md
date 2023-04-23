@@ -19,28 +19,21 @@
 
 ## Programming Languages
 <div>
+<img height="48" src="https://img.icons8.com/fluency/512/c-programming.png">
+<img height="48" src="https://img.icons8.com/color/512/c-plus-plus-logo.png">
+<img height="48" src="https://img.icons8.com/color/512/c-sharp-logo.png">
+<img height="48" src="https://img.icons8.com/color/512/python.png">
+<img height="48" src="https://img.icons8.com/color/512/php.png">
+<img src="https://img.icons8.com/color/48/null/kotlin.png"/>
+<img height="48" src="https://img.icons8.com/color/512/swift.png">
 <img height="48" src="https://img.icons8.com/color/512/html-5--v2.png">
 <img height="48" src="https://img.icons8.com/fluency/512/css3.png">
 <img height="48" src="https://img.icons8.com/color/512/javascript.png">
-<img height="48" src="https://img.icons8.com/color/512/python.png">
-<img height="48" src="https://img.icons8.com/color/512/c-sharp-logo.png">
-<img height="48" src="https://img.icons8.com/fluency/512/c-programming.png">
-<img height="48" src="https://img.icons8.com/color/512/swift.png">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/GoogleAppScripts.svg"/>
-<img height="48" src="https://img.icons8.com/color/512/c-plus-plus-logo.png">
-<img height="48" src="https://img.icons8.com/color/512/php.png">
 <img height="48" src="https://img.icons8.com/color/512/typescript.png">
-<img src="https://img.icons8.com/color/48/null/kotlin.png"/>
-
-
-
-
-
-
-
-<img alt="VisualBasic">
-<img alt="scheme">
-<img alt="hsp">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/HSP.jpeg"/>
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Scheme.png"/>
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/GoogleAppScripts.svg"/>
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VisualBasic.png"/>
 </div>
 
 ## Frontend Library
