@@ -38,21 +38,18 @@
 <img height="48" weight="48" alt="Assembly"/>
 </div>
 
-## Frontend Library
+## Libraries
 <div>
-<img alt="react">
-<img alt="vue">
+<img src="https://img.icons8.com/color/48/null/react-native.png" alt="react"/>
+<img src="https://img.icons8.com/color/48/null/vue-js.png" alt="vue"/>
 </div>
 
-## Frontend Framework
+## Frameworks
 <div>
 <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
-<img alt="talewind">
-<img alt="next">
-<img alt="nuxt">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Tailwind.png"　alt="tailwind">
+<img height="48" width="48" alt="next">
 </div>
-
-## Backend Framework
 <div>
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Laravel.svg"/>
 <img src="https://img.icons8.com/color/48/null/django.png" alt="django"　/>
@@ -63,11 +60,15 @@
 
 ## Editor
 <div>
-<img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/null/android-studio--v3.png"/>
-<img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-<img src="https://img.icons8.com/color/48/null/xcode.png"/>
-<img alt="bracket"><img alt="atom"><img alt="PyCharm"><img alt="spyder"><img alt="Dr.Racket">
+<img height="48"　src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
+<img height="48" src="https://img.icons8.com/color/48/null/android-studio--v3.png"/>
+<img height="48" src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
+<img height="48" src="https://img.icons8.com/color/48/null/xcode.png"/>
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Brackets.png"　alt="bracket">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Atom.png"　alt="atom">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/PyCharmEducation.png"　alt="PyCharm">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Spyder.png"　alt="spyder">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Racket.png"　alt="Dr.Racket">
 </div>
 
 ## Container Infra
