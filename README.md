@@ -29,7 +29,11 @@
 <img height="50" src="https://img.icons8.com/fluency/512/css3.png">
 <img height="50" src="https://img.icons8.com/color/512/javascript.png">
 <img height="50" src="https://img.icons8.com/color/512/typescript.png">
-<img alt="gas"
+<img height="50" src="https://img.icons8.com/color/48/null/kotlin.png"/>
+<img alt="gas">
+<img alt="VisualBasic">
+<img alt="scheme">
+<img alt="hsp">
 </div>
 
 ## Frontend Library
@@ -51,6 +55,9 @@
 <img alt="laravel">
 <img src="https://img.icons8.com/color/48/null/django.png" alt="django"　/>
 </div>
+  
+## Database
+<img src="https://img.icons8.com/color/48/null/mysql-logo.png"/>
 
 ## Editor
 <div>
@@ -58,6 +65,7 @@
 <img src="https://img.icons8.com/color/48/null/android-studio--v3.png"/>
 <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
 <img src="https://img.icons8.com/color/48/null/xcode.png"/>
+<img alt="bracket"><img alt="atom"><img alt="PyCharm"><img alt="spyder"><img alt="Dr.Racket">
 </div>
 
 ## Container Infra
