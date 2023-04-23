@@ -30,10 +30,12 @@
 <img height="48" src="https://img.icons8.com/fluency/512/css3.png">
 <img height="48" src="https://img.icons8.com/color/512/javascript.png">
 <img height="48" src="https://img.icons8.com/color/512/typescript.png">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VisualBasic.png"/>
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/HSP.jpeg"/>
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Scheme.png"/>
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/GoogleAppScripts.svg"/>
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VisualBasic.png"/>
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VBA.svg"/>
+<img height="48" weight="48" alt="Assembly"/>
 </div>
 
 ## Frontend Library
@@ -52,7 +54,7 @@
 
 ## Backend Framework
 <div>
-<img alt="laravel">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Laravel.svg"/>
 <img src="https://img.icons8.com/color/48/null/django.png" alt="django"　/>
 </div>
   
@@ -91,3 +93,20 @@
 <div>
 <img alt="Looker Studio">
 </div>
+
+<!--
+## 雑に
+<div>
+<img alt="Unity">
+<img alt="OpenMP">
+<img alt="Yacc">
+<img alt="Lex">
+<img alt="Lex">
+<img alt="createML">
+<img alt="matplotlib">
+<img alt="pillow">
+<img alt="pandas">
+<img alt="keras">
+<img alt="tensorflow">
+</div>
+-->
