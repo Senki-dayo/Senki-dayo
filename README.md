@@ -18,8 +18,8 @@
 -->
 
 ## Programming Languages
-<div>
-<img height="48" src="https://img.icons8.com/fluency/512/c-programming.png" alt="c">
+<div> <!-- DONE -->
+<img height="48" src="https://img.icons8.com/fluency/512/c-programming.png" alt="c">  
 <img height="48" src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="c++">
 <img height="48" src="https://img.icons8.com/color/512/c-sharp-logo.png" alt="c#">
 <img height="48" src="https://img.icons8.com/color/512/python.png" alt="python">
@@ -55,7 +55,7 @@
 <img src="https://img.icons8.com/color/48/null/django.png" alt="django">
 </div>
   
-## Database
+## Database <!-- DONE -->
 <img src="https://img.icons8.com/color/48/null/mysql-logo.png" alt="mysql">
 
 ## Editor
@@ -84,7 +84,7 @@
 </div>
 
 ## API
-<div>
+<div> <!-- DONE -->
 <img height="50" src="https://img.icons8.com/color/512/twitter-squared.png" alt="TwitterAPI">
 <img height="50" src="https://img.icons8.com/color/512/spotify.png" alt="SpotifyAPI">
 <img src="https://img.icons8.com/color/48/null/google-forms-new-logo-1.png" alt="GoogleFormAPI">
