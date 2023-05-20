@@ -36,6 +36,7 @@
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/GoogleAppScripts.svg" alt="gas">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VBA.svg" alt="vba">
 <img height="48" weight="48" alt="Assembly"/>
+<img height="48" weight="48" alt="Go"/>
 </div>
 
 ## Libraries
