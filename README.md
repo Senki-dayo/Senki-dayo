@@ -28,41 +28,33 @@
 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-<img height="48" weight="48" alt="DBeaver"/>
-<img height="48" weight="48" alt="MySQL workbench"/>
-<img height="48" weight="48" alt="phpMyadmin"/>
+<!-- 除外 : phpmyadmin, DBeaver -->
 
 ## Application
+[![My Skills](https://skillicons.dev/icons?i=nextjs,laravel,django)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=django,laravel,nextjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=jquery,nodejs,vue,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery,react,vue,nodejs)](https://skillicons.dev)
 
-## Clowd Infra 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+## Clowd Service
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,heroku,wordpress)](https://skillicons.dev)
 
 ## Container Infra
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 
 ## Editor
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,atom,vim,emacs)](https://skillicons.dev)
-<div>
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,atom,vim,emacs,replit)](https://skillicons.dev)
 <img height="48" src="https://img.icons8.com/color/48/null/xcode.png" alt="xcode"/>
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Brackets.png"　alt="bracket">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Spyder.png"　alt="spyder">
-</div>
-  
-## Tools
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,postman,wordpress,)](https://skillicons.dev)
+<!-- 除外 : bracket, Spyder, Dr.Racket, PyCharm -->
 
 ## Others(まだ)
-[![My Skills](https://skillicons.dev/icons?i=ps,postman,discord,latex,linux,md,nginx,powershell,raspberrypi,replit,svg,tensorflow,threejs,unity,figma,git,github,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,postman,discord,latex,linux,md,nginx,powershell,raspberrypi,svg,tensorflow,threejs,unity,figma,git,github,)](https://skillicons.dev)
 
-## API
-<div> <!-- DONE -->
+<!-- ## API
+<div>
 <img height="50" src="https://img.icons8.com/color/512/twitter-squared.png" alt="TwitterAPI">
 <img height="50" src="https://img.icons8.com/color/512/spotify.png" alt="SpotifyAPI">
 <img src="https://img.icons8.com/color/48/null/google-forms-new-logo-1.png" alt="GoogleFormAPI">
-</div>
+</div> -->
 
 ## Movie Tool
 <div>
@@ -75,13 +67,9 @@
 <img alt="Looker Studio">
 </div>
 
-## Game Tool
-
-
 <!--
 ## 雑に
 <div>
-<img alt="Unity">
 <img alt="OpenMP">
 <img alt="Yacc">
 <img alt="Lex">
