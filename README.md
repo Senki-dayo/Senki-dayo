@@ -1,4 +1,4 @@
-### 使う技術(編集の途中、思い出し次第書き足す)(いまぐちゃぐちゃ)
+### 使う技術(編集の途中、思い出し次第書き足す)
 
 <!-- ステータス -->
 <!--
@@ -19,145 +19,43 @@
 
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php,kotlin,swift,go,html,css,js,ts)](https://skillicons.dev)
-VisualBasic,HSP,scheme,gas,vba,assembly
-
-## Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-
-## Application
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=django,)](https://skillicons.dev)
-
-
-
-<!-- ## Programming Languages
-<div>
-<img height="48" src="https://img.icons8.com/fluency/512/c-programming.png" alt="c">  
-<img height="48" src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="c++">
-<img height="48" src="https://img.icons8.com/color/512/c-sharp-logo.png" alt="c#">
-<img height="48" src="https://img.icons8.com/color/512/python.png" alt="python">
-<img height="48" src="https://img.icons8.com/color/512/php.png" alt="php">
-<img src="https://img.icons8.com/color/48/null/kotlin.png" alt="kotlin">
-<img height="48" src="https://img.icons8.com/color/512/swift.png" alt="swift">
-<img height="48" src="https://img.icons8.com/color/512/html-5--v2.png" alt="html">
-<img height="48" src="https://img.icons8.com/fluency/512/css3.png" alt="css">
-<img height="48" src="https://img.icons8.com/color/512/javascript.png" alt="javascript">
-<img height="48" src="https://img.icons8.com/color/512/typescript.png" alt="typescript">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VisualBasic.png" alt="Visualbasic">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/HSP.jpeg" alt="hsp">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Scheme.png" alt="scheme">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/GoogleAppScripts.svg" alt="gas">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VBA.svg" alt="vba">
 <img height="48" weight="48" alt="Assembly"/>
-<img height="48" weight="48" alt="Go"/>
-</div> -->
 
+## Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+<img height="48" weight="48" alt="DBeaver"/>
+<img height="48" weight="48" alt="MySQL workbench"/>
+<img height="48" weight="48" alt="phpMyadmin"/>
 
+## Application
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,laravel,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery,nodejs,vue,react)](https://skillicons.dev)
 
-
-
-jquery,kubernetes
-laravel
-latex
-linux
-md
-
-nextjs
-nginx
-nodejs
-ps
-
-postman
-powershell
-pr
-raspberrypi	
-react
-replit
-svg
-
-tensorflow
-threejs
-unity
-vim
-visualstudio	
-vscode
-vue
-wordpress
-
-## Frontend
-
-
-## Editor
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,emacs,)](https://skillicons.dev)
-
-## Clowd Infra
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,)](https://skillicons.dev)
+## Clowd Infra 
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 ## Container Infra
-[![My Skills](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 
-
-## Clowd Infra
-[![My Skills](https://skillicons.dev/icons?i=discord,)](https://skillicons.dev)
-
-figma,gcp,git,github,heroku
-
-## Clowd Infra
-[![My Skills](https://skillicons.dev/icons?i=discord,)](https://skillicons.dev)
-
-
-
-## Libraries
-<div>
-
-<img src="https://img.icons8.com/color/48/null/react-native.png" alt="react"/>
-<img src="https://img.icons8.com/color/48/null/vue-js.png" alt="vue"/>
-</div>
-
-## Frameworks
-<div>
-<img src="https://img.icons8.com/color/48/null/bootstrap.png" alt="bootstrap">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Tailwind.png"　alt="tailwind">
-<img height="48" width="48" alt="next">
-</div>
-<div>
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Laravel.svg" alt="laravel">
-<img src="https://img.icons8.com/color/48/null/django.png" alt="django">
-</div>
-  
-## Database <!-- DONE -->
-<div>
-<img src="https://img.icons8.com/color/48/null/mysql-logo.png" alt="mysql">
-<img src="" alt="postgres">
-<img src="" alt="DBeaver">
-<img src="" alt="MySQL workbench">
-<img src="" alt="phpMyadmin">
-</div>
-  
 ## Editor
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,atom,vim,emacs)](https://skillicons.dev)
 <div>
-<img height="48"　src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" alt="vscode"/>
-<img height="48" src="https://img.icons8.com/color/48/null/android-studio--v3.png" alt="android studio"/>
-<img height="48" src="https://img.icons8.com/color/48/null/visual-studio--v2.png" alt="visual studio"/>
 <img height="48" src="https://img.icons8.com/color/48/null/xcode.png" alt="xcode"/>
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Brackets.png"　alt="bracket">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Atom.png"　alt="atom">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/PyCharmEducation.png"　alt="PyCharm">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Spyder.png"　alt="spyder">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Racket.png"　alt="Dr.Racket">
 </div>
+  
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,postman,wordpress,)](https://skillicons.dev)
 
-## Container Infra
-<div>
-<img src="https://img.icons8.com/color/48/null/docker.png" alt="docker">
-<img src="https://img.icons8.com/color/48/null/kubernetes.png" alt="kubernetes">
-</div>
-
-## Cloud Infra
-<div>
-<img src="https://img.icons8.com/color/48/null/amazon-web-services.png" alt="aws">
-<img src="https://img.icons8.com/fluency/48/null/azure-1.png" alt="azure">
-</div>
+## Others(まだ)
+[![My Skills](https://skillicons.dev/icons?i=ps,postman,discord,latex,linux,md,nginx,powershell,raspberrypi,replit,svg,tensorflow,threejs,unity,figma,git,github,heroku)](https://skillicons.dev)
 
 ## API
 <div> <!-- DONE -->
@@ -197,5 +95,23 @@ figma,gcp,git,github,heroku
 </div>
 -->
 
-
-
+<!-- ## Programming Languages
+<div>
+<img height="48" src="https://img.icons8.com/fluency/512/c-programming.png" alt="c">  
+<img height="48" src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="c++">
+<img height="48" src="https://img.icons8.com/color/512/c-sharp-logo.png" alt="c#">
+<img height="48" src="https://img.icons8.com/color/512/python.png" alt="python">
+<img height="48" src="https://img.icons8.com/color/512/php.png" alt="php">
+<img src="https://img.icons8.com/color/48/null/kotlin.png" alt="kotlin">
+<img height="48" src="https://img.icons8.com/color/512/swift.png" alt="swift">
+<img height="48" src="https://img.icons8.com/color/512/html-5--v2.png" alt="html">
+<img height="48" src="https://img.icons8.com/fluency/512/css3.png" alt="css">
+<img height="48" src="https://img.icons8.com/color/512/javascript.png" alt="javascript">
+<img height="48" src="https://img.icons8.com/color/512/typescript.png" alt="typescript">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VisualBasic.png" alt="Visualbasic">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/HSP.jpeg" alt="hsp">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Scheme.png" alt="scheme">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/GoogleAppScripts.svg" alt="gas">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VBA.svg" alt="vba">
+<img height="48" weight="48" alt="Assembly"/>
+</div> -->
