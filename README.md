@@ -1,4 +1,4 @@
-### 使う技術(編集の途中、思い出し次第書き足す)
+### 使う技術(編集の途中、思い出し次第書き足す)(いまぐちゃぐちゃ)
 
 <!-- ステータス -->
 <!--
@@ -18,7 +18,20 @@
 -->
 
 ## Programming Languages
-<div> <!-- DONE -->
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php,kotlin,swift,html,css,js,ts,go,wasm)](https://skillicons.dev)
+VisualBasic,HSP,scheme,gas,vba
+
+## Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+## Application
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,)](https://skillicons.dev)
+
+
+
+<!-- ## Programming Languages
+<div>
 <img height="48" src="https://img.icons8.com/fluency/512/c-programming.png" alt="c">  
 <img height="48" src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="c++">
 <img height="48" src="https://img.icons8.com/color/512/c-sharp-logo.png" alt="c#">
@@ -30,14 +43,69 @@
 <img height="48" src="https://img.icons8.com/fluency/512/css3.png" alt="css">
 <img height="48" src="https://img.icons8.com/color/512/javascript.png" alt="javascript">
 <img height="48" src="https://img.icons8.com/color/512/typescript.png" alt="typescript">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VisualBasic.png" alt="bisualbasic">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VisualBasic.png" alt="Visualbasic">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/HSP.jpeg" alt="hsp">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Scheme.png" alt="scheme">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/GoogleAppScripts.svg" alt="gas">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VBA.svg" alt="vba">
 <img height="48" weight="48" alt="Assembly"/>
 <img height="48" weight="48" alt="Go"/>
-</div>
+</div> -->
+
+
+
+
+
+jquery,kubernetes
+laravel
+latex
+linux
+md
+
+nextjs
+nginx
+nodejs
+ps
+
+postman
+powershell
+pr
+raspberrypi	
+react
+replit
+svg
+
+tensorflow
+threejs
+unity
+vim
+visualstudio	
+vscode
+vue
+wordpress
+
+## Frontend
+
+
+## Editor
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,emacs,)](https://skillicons.dev)
+
+## Clowd Infra
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,)](https://skillicons.dev)
+
+## Container Infra
+[![My Skills](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
+
+
+## Clowd Infra
+[![My Skills](https://skillicons.dev/icons?i=discord,)](https://skillicons.dev)
+
+figma,gcp,git,github,heroku
+
+## Clowd Infra
+[![My Skills](https://skillicons.dev/icons?i=discord,)](https://skillicons.dev)
+
+
 
 ## Libraries
 <div>
@@ -109,6 +177,9 @@
 <img alt="Looker Studio">
 </div>
 
+## Game Tool
+
+
 <!--
 ## 雑に
 <div>
@@ -125,3 +196,6 @@
 <img alt="tensorflow">
 </div>
 -->
+
+
+
