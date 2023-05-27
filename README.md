@@ -18,8 +18,8 @@
 -->
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php,kotlin,swift,html,css,js,ts,go,wasm)](https://skillicons.dev)
-VisualBasic,HSP,scheme,gas,vba
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php,kotlin,swift,go,html,css,js,ts)](https://skillicons.dev)
+VisualBasic,HSP,scheme,gas,vba,assembly
 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
