@@ -79,7 +79,6 @@
 <img alt="pillow">
 <img alt="pandas">
 <img alt="keras">
-<img alt="tensorflow">
 </div>
 -->
 
