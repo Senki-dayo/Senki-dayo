@@ -46,7 +46,7 @@
 <img height="48" src="https://img.icons8.com/color/48/null/xcode.png" alt="xcode"/>
 <!-- 除外 : bracket, Spyder, Dr.Racket, PyCharm -->
 
-## Others(まだ)
+## Others (雑に並べてる状態)
 [![My Skills](https://skillicons.dev/icons?i=ps,pr,postman,discord,latex,linux,md,nginx,powershell,raspberrypi,svg,tensorflow,threejs,unity,figma,git,github,)](https://skillicons.dev)
 
 <!-- ## API
