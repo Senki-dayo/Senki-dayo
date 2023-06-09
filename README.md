@@ -49,6 +49,7 @@
 ## Others (雑に並べてる状態)
 [![My Skills](https://skillicons.dev/icons?i=ps,pr,postman,discord,latex,linux,md,nginx,powershell,raspberrypi,svg,tensorflow,threejs,unity,figma,git,github,)](https://skillicons.dev)
 
+<!-- これで全部 -->
 <!-- ## API
 <div>
 <img height="50" src="https://img.icons8.com/color/512/twitter-squared.png" alt="TwitterAPI">
