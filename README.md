@@ -20,11 +20,12 @@
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php,kotlin,swift,go,html,css,js,ts)](https://skillicons.dev)
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VisualBasic.png" alt="Visualbasic">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/HSP.jpeg" alt="hsp">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Scheme.png" alt="scheme">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/GoogleAppScripts.svg" alt="gas">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VBA.svg" alt="vba">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/GoogleAppScripts.svg" alt="gas">
 <img height="48" weight="48" alt="Assembly"/>
+<!-- <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/HSP.jpeg" alt="hsp">
+<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Scheme.png" alt="scheme"> -->
+<!-- 除外 : hsp, scheme -->
 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
