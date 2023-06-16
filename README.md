@@ -1,4 +1,4 @@
-### 使う技術(編集の途中、思い出し次第書き足す)
+### Languages & Tools (編集中)
 
 <!-- ステータス -->
 <!--
@@ -47,7 +47,7 @@
 <img height="48" src="https://img.icons8.com/color/48/null/xcode.png" alt="xcode"/>
 <!-- 除外 : bracket, Spyder, Dr.Racket, PyCharm -->
 
-## Others (雑に並べてる状態)
+## Others (in SkillIcons)
 [![My Skills](https://skillicons.dev/icons?i=ps,pr,postman,discord,latex,linux,md,nginx,powershell,raspberrypi,svg,tensorflow,threejs,unity,figma,git,github,)](https://skillicons.dev)
 
 <!-- これで全部 -->
