@@ -2,11 +2,13 @@
 
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php,kotlin,swift,go,html,css,js,ts)](https://skillicons.dev)
+<div>
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VisualBasic.png" alt="Visualbasic">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VBA.svg" alt="vba">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/GoogleAppScripts.svg" alt="gas">
 <img height="48" weight="48" alt="Assembly"/>
-
+</div>
+  
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 <!-- 除外 : phpmyadmin, DBeaver -->
@@ -28,7 +30,12 @@
 <!-- 除外 : bracket, Spyder, PyCharm -->
 
 ## Others (in SkillIcons)
-[![My Skills](https://skillicons.dev/icons?i=ps,postman,discord,latex,linux,md,nginx,powershell,raspberrypi,svg,threejs,figma,git,github,)](https://skillicons.dev)
+<!-- Movie -->
+[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,latex,linux,md,nginx,powershell,raspberrypi,svg,threejs,figma,)](https://skillicons.dev)
 
 <!-- AI -->
 [![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
@@ -39,9 +46,9 @@
 <!-- Game -->
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 <img height="48" weight="48" alt="monaca"/>
+<img height="48" weight="48" alt="cordova"/>
 
-<!-- Movie -->
-[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
+
 
 
 <!-- これで全部 -->
