@@ -56,6 +56,8 @@
 <!-- Game -->
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 <img height="48" weight="48" alt="RPGtkool"/>
+<img height="48" weight="48" alt="monaca"/>
+<img height="48" weight="48" alt="enchant.js"/>
 
 <!-- Movie -->
 [![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
