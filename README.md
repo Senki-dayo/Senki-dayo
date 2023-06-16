@@ -23,8 +23,6 @@
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VBA.svg" alt="vba">
 <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/GoogleAppScripts.svg" alt="gas">
 <img height="48" weight="48" alt="Assembly"/>
-<!-- <img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/HSP.jpeg" alt="hsp">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Scheme.png" alt="scheme"> -->
 <!-- 除外 : hsp, scheme -->
 
 ## Database
@@ -33,7 +31,7 @@
 
 ## Application
 [![My Skills](https://skillicons.dev/icons?i=nextjs,laravel,django)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=jquery,react,vue,nodejs)](https://skillicons.dev)
 
 ## Clowd Service
@@ -48,7 +46,20 @@
 <!-- 除外 : bracket, Spyder, Dr.Racket, PyCharm -->
 
 ## Others (in SkillIcons)
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,postman,discord,latex,linux,md,nginx,powershell,raspberrypi,svg,tensorflow,threejs,unity,figma,git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,postman,discord,latex,linux,md,nginx,powershell,raspberrypi,svg,threejs,figma,git,github,)](https://skillicons.dev)
+
+<!-- AI -->
+[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+<img height="48" weight="48" alt="keras"/>
+
+<!-- Game -->
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+<img height="48" weight="48" alt="RPGtkool"/>
+
+<!-- Movie -->
+[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
+<img height="48" weight="48" alt="AviUtl"/>
+
 
 <!-- これで全部 -->
 <!-- ## API
@@ -83,24 +94,3 @@
 <img alt="keras">
 </div>
 -->
-
-<!-- ## Programming Languages
-<div>
-<img height="48" src="https://img.icons8.com/fluency/512/c-programming.png" alt="c">  
-<img height="48" src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="c++">
-<img height="48" src="https://img.icons8.com/color/512/c-sharp-logo.png" alt="c#">
-<img height="48" src="https://img.icons8.com/color/512/python.png" alt="python">
-<img height="48" src="https://img.icons8.com/color/512/php.png" alt="php">
-<img src="https://img.icons8.com/color/48/null/kotlin.png" alt="kotlin">
-<img height="48" src="https://img.icons8.com/color/512/swift.png" alt="swift">
-<img height="48" src="https://img.icons8.com/color/512/html-5--v2.png" alt="html">
-<img height="48" src="https://img.icons8.com/fluency/512/css3.png" alt="css">
-<img height="48" src="https://img.icons8.com/color/512/javascript.png" alt="javascript">
-<img height="48" src="https://img.icons8.com/color/512/typescript.png" alt="typescript">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VisualBasic.png" alt="Visualbasic">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/HSP.jpeg" alt="hsp">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/Scheme.png" alt="scheme">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/GoogleAppScripts.svg" alt="gas">
-<img height="48" src="https://github.com/Senki-dayo/Senki-dayo/blob/main/logos/VBA.svg" alt="vba">
-<img height="48" weight="48" alt="Assembly"/>
-</div> -->
