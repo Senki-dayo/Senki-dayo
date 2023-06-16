@@ -51,6 +51,7 @@
 <!-- AI -->
 [![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 <img height="48" weight="48" alt="keras"/>
+<img height="48" weight="48" alt="LookerStudio"/>
 
 <!-- Game -->
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
@@ -68,17 +69,6 @@
 <img height="50" src="https://img.icons8.com/color/512/spotify.png" alt="SpotifyAPI">
 <img src="https://img.icons8.com/color/48/null/google-forms-new-logo-1.png" alt="GoogleFormAPI">
 </div> -->
-
-## Movie Tool
-<div>
-<img alt="AviUtl">
-<img alt="Premiere">
-</div>
-
-## BI Tool
-<div>
-<img alt="Looker Studio">
-</div>
 
 <!--
 ## 雑に
