@@ -11,7 +11,7 @@
 </div>
   
 ## Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,prometheus)](https://skillicons.dev)
 <!-- 除外 : phpmyadmin, DBeaver -->
 
 ## Application
